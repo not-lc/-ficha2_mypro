@@ -1,1 +1,4 @@
-Este é o exemplo de um ficheiro de texto file3
+Estou a fazer alterações no file3
+
+
+Fazendo testes para aprender como funciona
