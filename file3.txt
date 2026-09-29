@@ -1,4 +1,10 @@
-Estou a fazer alterações no file3
+<h1>Listas de coisas</h1>
 
+<h2>Comidas</h2>
 
-Fazendo testes para aprender como funciona
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+ </ul>
+
