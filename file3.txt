@@ -1,4 +1,10 @@
-Estou a fazer alterações no file3
+Este é o exemplo de um ficheiro de texto file3
 
+<h2_Bebidas</he>
 
-Fazendo testes para aprender como funciona
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
